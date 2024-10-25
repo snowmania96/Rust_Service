@@ -23,7 +23,7 @@ hex = { version = "0.4.3", default-features = false }
 hex-literal = "0.4.1"
 humantime = "2.1.0"
 humantime-serde = "1.1.1"
-hyper = "0.14.29"
+hyper = "0.14.31"
 indexmap = "2.2.6"
 itertools = "0.12.1"
 lazy_static = "1.4.0"
